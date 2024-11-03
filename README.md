@@ -3,8 +3,6 @@ Pet Virtual é um aplicativo em Kotlin criado por mim, Victor, inspirado na minh
 
 🚀 Tecnologias
 Linguagem: Kotlin
-💻 Como Executar
-Clone este repositório em sua máquina:
 
 
 🤝 Contribuições
