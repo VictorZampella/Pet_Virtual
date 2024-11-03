@@ -5,3 +5,6 @@ Tecnologias
 Kotlin
 Execução
 Clone o repositório, abra o arquivo no seu ambiente de desenvolvimento e execute o código.
+
+Contribuições
+Contribuições são bem-vindas!
